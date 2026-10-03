@@ -7,8 +7,8 @@
 <body>
 
 <?php
-$nom = "El Barnoussi";
-$prenom = "Meryem";
+$nom = "Dupont";
+$prenom = "Ali";
 $age = 20;
 $formation = "Informatique Appliquée";
 
